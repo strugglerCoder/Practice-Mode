@@ -7,7 +7,6 @@ for i in range(n):
          print("*",end=" ")
     print()
 
-
 print("\nPattern 2: \n")
 
 for i in range(n):
@@ -52,7 +51,6 @@ for i in range(n):
     for k in range(n,i,-1):
         print("*",end=" ")
     print()
-
 
 print("\nPattern 7:\n")
 
