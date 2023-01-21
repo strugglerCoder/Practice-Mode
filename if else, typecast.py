@@ -8,4 +8,4 @@ elif num1==num2:
     print("elif stat : "+str(num1)+" is equal to "+str(num2))
 else:
     print("else stat : "+str(num1)+" is greater than "+str(num2))
-print ("program end") 
+print ("program end. ")
