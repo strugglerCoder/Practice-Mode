@@ -44,6 +44,3 @@ print("No. of Documents is :",collection.count_documents({}))
 
 #collection.delete_many({})
 print(collection.count_documents({}))
-
-
-
