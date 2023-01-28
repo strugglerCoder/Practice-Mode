@@ -16,5 +16,4 @@ def deleted(string):
             count += 1
         nxt += 1
 
-
 print(deleted("aabccaa"))
