@@ -7,3 +7,4 @@ myset = set(lst)
 print(myset)
 
 print (myset.__len__())
+
